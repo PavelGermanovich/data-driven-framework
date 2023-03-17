@@ -1,0 +1,131 @@
+[INFO ] 2023-03-11 10:59:08.810 [main] masdf - config file loaded
+[INFO ] 2023-03-11 10:59:11.302 [main] masdf - navigating to the site
+[INFO ] 2023-03-11 13:48:59.089 [main] BaseTestLogger - config file loaded
+[INFO ] 2023-03-11 13:49:02.325 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-12 13:41:26.974 [main] BaseTestLogger - config file loaded
+[INFO ] 2023-03-12 13:41:30.806 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-16 15:03:21.169 [main] BaseTestLogger - config file loaded
+[INFO ] 2023-03-16 15:55:45.971 [main] BaseTestLogger - config file loaded
+[INFO ] 2023-03-16 15:55:48.778 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-16 15:55:49.990 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-16 16:07:50.522 [main] BaseTestLogger - config file loaded
+[INFO ] 2023-03-16 16:07:53.187 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-16 16:08:02.781 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-16 16:08:27.094 [main] BaseTestLogger - config file loaded
+[INFO ] 2023-03-16 16:08:29.743 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-16 16:08:39.985 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-16 16:11:12.108 [main] BaseTestLogger - config file loaded
+[INFO ] 2023-03-16 16:11:14.657 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-16 16:11:24.865 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-16 16:13:02.153 [main] BaseTestLogger - config file loaded
+[INFO ] 2023-03-16 16:13:04.783 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-16 16:13:14.652 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-16 16:14:26.740 [main] BaseTestLogger - config file loaded
+[INFO ] 2023-03-16 16:14:29.841 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-16 16:14:32.301 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-16 20:37:05.467 [main] BaseTestLogger - config file loaded
+[INFO ] 2023-03-16 20:37:09.973 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-16 20:37:12.093 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-16 20:38:32.636 [main] BaseTestLogger - config file loaded
+[INFO ] 2023-03-16 21:03:02.636 [main] BaseTestLogger - config file loaded
+[INFO ] 2023-03-16 21:03:05.397 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-16 21:03:15.121 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-16 21:03:25.917 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-16 21:03:35.550 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-16 23:19:10.047 [main] BaseTestLogger - config file loaded
+[INFO ] 2023-03-16 23:19:12.013 [main] BaseTestLogger - Test has started
+[INFO ] 2023-03-16 23:19:12.899 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-16 23:19:13.608 [main] BaseTestLogger - Test has succeeded
+[INFO ] 2023-03-17 00:05:24.802 [main] BaseTestLogger - config file loaded
+[INFO ] 2023-03-17 00:05:26.210 [main] BaseTestLogger - Test has started
+[INFO ] 2023-03-17 00:05:27.017 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-17 00:05:27.596 [main] BaseTestLogger - Test has succeeded
+[INFO ] 2023-03-17 00:05:27.597 [main] BaseTestLogger - Test has failed
+[INFO ] 2023-03-17 00:08:50.834 [main] BaseTestLogger - config file loaded
+[INFO ] 2023-03-17 00:08:52.293 [main] BaseTestLogger - Test has started
+[INFO ] 2023-03-17 00:08:52.295 [main] BaseTestLogger - Test has failed
+[INFO ] 2023-03-17 00:08:52.295 [main] BaseTestLogger - Test has failed
+[INFO ] 2023-03-17 00:25:27.298 [main] BaseTestLogger - config file loaded
+[INFO ] 2023-03-17 00:25:29.007 [main] BaseTestLogger - Test has started
+[INFO ] 2023-03-17 00:25:29.009 [main] BaseTestLogger - Test has failed
+[INFO ] 2023-03-17 00:25:29.009 [main] BaseTestLogger - Test has failed
+[INFO ] 2023-03-17 00:26:16.920 [main] BaseTestLogger - config file loaded
+[INFO ] 2023-03-17 00:26:18.430 [main] BaseTestLogger - Test has started
+[INFO ] 2023-03-17 00:26:28.574 [main] BaseTestLogger - Test has failed
+[INFO ] 2023-03-17 00:26:29.482 [main] BaseTestLogger - Test has failed
+[INFO ] 2023-03-17 00:26:41.481 [main] BaseTestLogger - config file loaded
+[INFO ] 2023-03-17 00:26:52.028 [main] BaseTestLogger - Test has started
+[INFO ] 2023-03-17 00:28:04.356 [main] BaseTestLogger - Test has failed
+[INFO ] 2023-03-17 00:28:04.357 [main] BaseTestLogger - Test has failed
+[INFO ] 2023-03-17 00:28:08.468 [main] BaseTestLogger - config file loaded
+[INFO ] 2023-03-17 00:28:09.877 [main] BaseTestLogger - Test has started
+[INFO ] 2023-03-17 00:28:10.795 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-17 00:28:11.240 [main] BaseTestLogger - Test has succeeded
+[INFO ] 2023-03-17 15:39:59.399 [main] BaseTestLogger - config file loaded
+[INFO ] 2023-03-17 15:40:02.140 [main] BaseTestLogger - Test has started
+[INFO ] 2023-03-17 15:40:03.319 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-17 15:40:03.828 [main] BaseTestLogger - Test has succeeded
+[INFO ] 2023-03-17 15:40:04.083 [main] BaseTestLogger - Test has started
+[INFO ] 2023-03-17 15:40:04.837 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-17 15:40:06.585 [main] BaseTestLogger - Test has succeeded
+[INFO ] 2023-03-17 15:40:06.593 [main] BaseTestLogger - Test has started
+[INFO ] 2023-03-17 15:40:07.098 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-17 15:40:08.096 [main] BaseTestLogger - Test has succeeded
+[INFO ] 2023-03-17 15:40:08.480 [main] BaseTestLogger - Test has started
+[INFO ] 2023-03-17 15:40:08.985 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-17 15:40:10.246 [main] BaseTestLogger - Test has succeeded
+[INFO ] 2023-03-17 15:40:10.265 [main] BaseTestLogger - Test has started
+[INFO ] 2023-03-17 15:40:10.888 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-17 15:40:19.670 [main] BaseTestLogger - Test has failed
+[INFO ] 2023-03-17 16:01:38.294 [main] BaseTestLogger - config file loaded
+[INFO ] 2023-03-17 16:01:40.094 [main] BaseTestLogger - Test skipped
+[INFO ] 2023-03-17 16:01:40.117 [main] BaseTestLogger - Test skipped
+[INFO ] 2023-03-17 16:01:40.133 [main] BaseTestLogger - Test skipped
+[INFO ] 2023-03-17 16:01:40.161 [main] BaseTestLogger - Test skipped
+[INFO ] 2023-03-17 16:01:40.174 [main] BaseTestLogger - Test skipped
+[INFO ] 2023-03-17 16:02:42.859 [main] BaseTestLogger - config file loaded
+[INFO ] 2023-03-17 16:03:00.093 [main] BaseTestLogger - Test skipped
+[INFO ] 2023-03-17 16:03:53.210 [main] BaseTestLogger - config file loaded
+[INFO ] 2023-03-17 16:06:09.674 [main] BaseTestLogger - Test skipped
+[INFO ] 2023-03-17 16:06:18.896 [main] BaseTestLogger - config file loaded
+[INFO ] 2023-03-17 16:06:20.699 [main] BaseTestLogger - Test skipped
+[INFO ] 2023-03-17 16:06:20.722 [main] BaseTestLogger - Test has started
+[INFO ] 2023-03-17 16:06:21.748 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-17 16:06:30.848 [main] BaseTestLogger - Test has failed
+[INFO ] 2023-03-17 16:06:31.083 [main] BaseTestLogger - Test has started
+[INFO ] 2023-03-17 16:06:31.874 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-17 16:06:40.739 [main] BaseTestLogger - Test has failed
+[INFO ] 2023-03-17 16:06:40.782 [main] BaseTestLogger - Test has started
+[INFO ] 2023-03-17 16:06:41.425 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-17 16:06:50.276 [main] BaseTestLogger - Test has failed
+[INFO ] 2023-03-17 16:06:50.305 [main] BaseTestLogger - Test has started
+[INFO ] 2023-03-17 16:06:50.837 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-17 16:06:59.691 [main] BaseTestLogger - Test has failed
+[INFO ] 2023-03-17 17:06:12.104 [main] BaseTestLogger - config file loaded
+[INFO ] 2023-03-17 17:06:14.815 [main] BaseTestLogger - Test skipped
+[INFO ] 2023-03-17 17:06:14.849 [main] BaseTestLogger - Test has started
+[INFO ] 2023-03-17 17:06:15.902 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-17 17:06:17.335 [main] BaseTestLogger - Test has succeeded
+[INFO ] 2023-03-17 17:06:17.576 [main] BaseTestLogger - Test has started
+[INFO ] 2023-03-17 17:06:18.261 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-17 17:06:19.368 [main] BaseTestLogger - Test has succeeded
+[INFO ] 2023-03-17 17:06:19.402 [main] BaseTestLogger - Test has started
+[INFO ] 2023-03-17 17:06:20.004 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-17 17:06:20.991 [main] BaseTestLogger - Test has succeeded
+[INFO ] 2023-03-17 17:06:21.019 [main] BaseTestLogger - Test has started
+[INFO ] 2023-03-17 17:06:21.529 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-17 17:06:30.417 [main] BaseTestLogger - Test has failed
+[INFO ] 2023-03-17 17:08:06.155 [main] BaseTestLogger - config file loaded
+[INFO ] 2023-03-17 17:08:08.034 [main] BaseTestLogger - Test skipped
+[INFO ] 2023-03-17 17:08:08.059 [main] BaseTestLogger - Test has started
+[INFO ] 2023-03-17 17:08:08.941 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-17 17:08:18.004 [main] BaseTestLogger - Test has failed
+[INFO ] 2023-03-17 17:08:18.240 [main] BaseTestLogger - Test has started
+[INFO ] 2023-03-17 17:08:19.066 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-17 17:08:27.890 [main] BaseTestLogger - Test has failed
+[INFO ] 2023-03-17 17:08:27.941 [main] BaseTestLogger - Test has started
+[INFO ] 2023-03-17 17:08:28.578 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-17 17:08:37.480 [main] BaseTestLogger - Test has failed
+[INFO ] 2023-03-17 17:08:37.515 [main] BaseTestLogger - Test has started
+[INFO ] 2023-03-17 17:08:38.138 [main] BaseTestLogger - navigating to the site
+[INFO ] 2023-03-17 17:08:47.041 [main] BaseTestLogger - Test has failed
